@@ -15,3 +15,6 @@
 3. C (Rating: <65)") 
    
 🏈 Ultimately, a user will be able to input certain key statistics pertaining to player performance and recieve an output in the form of a player rating classification for that players FIRST YEAR of his professional career. ")
+
+
+Link to published Streamlit: (To follow when published)
